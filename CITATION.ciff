@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "Please cite the IncrementPilot white paper using the preferred citation below."
+
+title: "IncrementPilot White Paper and Supporting Materials"
+
+authors:
+  - family-names: "Kanwar"
+    given-names: "Deepak"
+  - family-names: "Kanwar"
+    given-names: "Krish"
+
+version: "2.0"
+date-released: "2026-MM-DD"
+license: "CC-BY-4.0"
+
+doi: "10.5281/zenodo.21200236"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21200236"
+    description: "DOI for Version 2.0 of the IncrementPilot white paper."
+
+repository-code: "https://github.com/deepakkanwar/incrementpilot-whitepaper"
+url: "https://doi.org/10.5281/zenodo.21200236"
+
+keywords:
+  - "multi-agent systems"
+  - "agentic software development"
+  - "software delivery"
+  - "requirements engineering"
+  - "human-in-the-loop"
+  - "AI-assisted software engineering"
+  - "product management"
+  - "DevOps"
+  - "quality assurance"
+
+preferred-citation:
+  type: report
+  title: "IncrementPilot: A Governed Multi-Agent Platform for Turning Business Ideas into Verified Software Increments"
+  authors:
+    - family-names: "Kanwar"
+      given-names: "Deepak"
+    - family-names: "Kanwar"
+      given-names: "Krish"
+  version: "2.0"
+  year: "2026"
+  doi: "10.5281/zenodo.21200236"
+  url: "https://doi.org/10.5281/zenodo.21200236"
