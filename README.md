@@ -12,8 +12,8 @@ IncrementPilot is a governed software-delivery model that transforms broad busin
 
 ## Read the paper
 
-- [White paper — PDF](paper/IncrementPilot_White_Paper_v2.pdf)
-- [White paper — Markdown](paper/IncrementPilot_White_Paper_v2.md)
+- [White paper — PDF](paper/IncrementPilot_White_Paper.pdf)
+- [White paper — Markdown](paper/IncrementPilot_White_Paper.md)
 
 ## Citation
 
