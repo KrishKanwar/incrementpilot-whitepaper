@@ -7,4 +7,4 @@ IncrementPilot is a governed software-delivery model that transforms broad busin
 **Authors:** Deepak Kanwar and Krish Kanwar  
 **Version:** 2.0  
 **Licence:** CC BY 4.0  
-**DOI:** To be added after Zenodo publication
+**DOI:** [10.5281/zenodo.21200236](https://doi.org/10.5281/zenodo.21200236)
